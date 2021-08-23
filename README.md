@@ -1,7 +1,7 @@
 ### Aoba! Eu sou a Grazi 👋
 
 - 🌱 Atualmente estou aprendendo HTML, CSS, JAVASCRIPT & NODEJS
-- 🤔 Estou procurando por uma experiência de estágio
+- 🤠 Estou aberta para experiências de estágio
 - 📫 Email para contato: grazi.social84@gmail.com
 - 😄 Pronomes: ela/dela
 ##

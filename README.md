@@ -1,7 +1,7 @@
 ### Aoba! Eu sou a Grazi 👋
 
 - 🌱 Atualmente estou aprendendo HTML, CSS, JAVASCRIPT
-- 📫 Email para contato: grazi.social84@gmail.com
+- 📫 Email: grazi.social84@gmail.com
 - 😄 Pronomes: ela/dela
 ##
 <div style="display: inline_block"><br>

@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo HTML, CSS, JAVASCRIPT
 - 📕 Estudante do Bacharelado Interdisciplinar em Ciência e Tecnologia pela UFBA
-- 👩‍💻 Desenvolvedora web em formação pela @cubosAcademy
+- 👩‍💻 Estagiária em desenvolvimento de software
 - 😄 Pronomes: ela/dela
 
 ##

@@ -1,6 +1,6 @@
 ### Aoba! Eu sou a Grazi 👋
 
-- 🌱 Atualmente estou me dedicando a aprender HTML, CSS, JAVASCRIPT & programação mobile com flutter
+- 🌱 Atualmente estou me dedicando a aprender HTML, CSS, JAVASCRIPT
 - 📕 Estudante do Bacharelado Interdisciplinar em Ciência e Tecnologia pela UFBA
 - 👩‍💻 Estagiária em desenvolvimento de software
 - 😄 Pronomes: ela/dela

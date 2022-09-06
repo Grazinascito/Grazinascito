@@ -1,9 +1,9 @@
-### Aoba! Eu sou a Grazi 👋
+### Hey! I'm Grazi 👋
 
-- 🌱 Atualmente estou me dedicando a aprender HTML, CSS, JAVASCRIPT
-- 📕 Estudante do Bacharelado Interdisciplinar em Ciência e Tecnologia pela UFBA
-- 👩‍💻 Estagiária em desenvolvimento de software
-- 😄 Pronomes: ela/dela
+- 🌱 I'm currently working with HTML, CSS, React, Typescript 
+- 👩‍💻 I'm currently working as Software developer intern @gbtech
+- 📕 Graduating in science and technology at UFBA
+- 😄 My Pronouns: She/Her
 
 ##
 <div style="display: inline_block"><br>

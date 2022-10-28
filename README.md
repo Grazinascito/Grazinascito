@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently working with HTML, CSS, React, Typescript 
 - 👩‍💻 I'm currently working as Software developer intern @gbtech
-- 📕 Graduating in science and technology at UFBA
+- 📕 Computer science student
 - 😄 My Pronouns: She/Her
 
 ##

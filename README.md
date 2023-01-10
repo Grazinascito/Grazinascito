@@ -1,7 +1,7 @@
 ### Hey! I'm Grazi 👋
 
 - 🌱 I'm currently working with HTML, CSS, React, Typescript 
-- 👩‍💻 I'm currently working as Software developer intern @gbtech
+- 👩‍💻 I'm currently working as Software developer @gbtech
 - 📕 Computer science student
 - 😄 My Pronouns: She/Her
 

@@ -1,10 +1,13 @@
 ### Hey! I'm Grazi 👋
 
-- 🌱 I'm currently working with HTML, CSS, React, Typescript 
+
 - 👩‍💻 I'm currently working as Software developer @gbtech
 - 📕 Computer science student
 - 😄 My Pronouns: She/Her
+- 🌱 Stack: HTML, CSS, React, Typescript
+- 🚀 Learning: Flutter
 
+  
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Grazi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

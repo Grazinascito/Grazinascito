@@ -4,7 +4,7 @@
 - 📕 Computer Science Student
 - 😄 Pronouns: She/Her
 - 🌱 **Stack:** HTML, CSS, React, Typescript, Flutter
-- 🚀 **Learning:** Prompt Engineering, UI/UX, Backend (boot.dev)
+- 🚀 **Learning:** Prompt Engineering, UI/UX, Backend 
 
 ---
 

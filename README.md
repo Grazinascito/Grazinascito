@@ -8,15 +8,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to-opportunities-2EA043?style=for-the-badge" alt="Open to opportunities" />
-  <a href="https://linkedin.com/in/graziele-santosdn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</a>
   <a href="mailto:grazinascito@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## 👩🏽‍💻 About me
 
-- 💼 ~4 years as Software Engineer at **Grupo Boticário** (React microfrontends + Flutter app with ~1M users/month) and **smartMIL** (full stack)
-- 🎓 Computer Science · 🏅 AWS Certified AI Practitioner
-- 📍 São Paulo, SP · 😄 She/Her
+- 💼 4 years as Software Engineer 
+- 🎓 Computer Science 
+- 🏅 AWS Certified AI Practitioner
+- 📍 São Paulo, SP 
+- 😄 She/Her
 
 ## 🤖 AI Engineering
 
@@ -24,6 +26,10 @@
 - **Spec-Driven Development** — specs as the contract between people and coding agents
 - **AI task pipelines** — Notion board where an AI refines, plans and executes tasks (Python)
 - **Voice agents** — real-time voice POC with the Gemini Live API
+
+## 🌱 Currently exploring
+
+AI agents &amp; orchestration · LangChain · RAG
 
 ## 🛠️ Stack &amp; tools
 
@@ -50,10 +56,5 @@
   </tr>
 </table>
 
-## 🌱 Currently exploring
 
-AI agents &amp; orchestration · LangChain · RAG
 
-<br />
-
-<p align="center"><i>🦆 Talk to the duck before you talk to the debugger.</i></p>
